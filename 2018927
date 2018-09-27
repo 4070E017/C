@@ -9,3 +9,123 @@ int main(void)
    return ;
    printf("Hello World!\n");
 }
+
+1錯誤
+#include <stdio.h>
+#include <stdlib.h>
+int main(void)
+{
+   printf('Hello 偉大的恩師!\n');   	/* 印出Hello 偉大的恩師! 字串 */
+   printf("Hello Taiwan!\n");   /* 印出Hello Taiwan! 字串 */   
+   
+   system("pause");
+   return 0 ;
+   printf("Hello World!\n");
+}
+2錯誤
+#include <stdio.h>
+#include <stdlib.h>
+int main(void)
+{
+   printf('Hello 偉大的恩師!\n');   	/* 印出Hello 偉大的恩師! 字串 */
+   printf("Hello Taiwan!\n");   /* 印出Hello Taiwan! 字串 */   
+   
+   system("pause");
+  # return 0 ;
+   printf("Hello World!\n");
+}
+3錯誤
+//include <stdio.h>
+#include <stdlib.h>
+int main(void)
+{
+   printf('Hello 偉大的恩師!\n');   	/* 印出Hello 偉大的恩師! 字串 */
+   printf("Hello Taiwan!\n");   /* 印出Hello Taiwan! 字串 */   
+   
+   system("pause");
+   return 0 ;
+   printf("Hello World!\n");
+}
+4錯誤
+//include <stdio.h>
+//include <stdlib.h>
+int main(void)
+{
+   printf('Hello 偉大的恩師!\n');   	/* 印出Hello 偉大的恩師! 字串 */
+   printf("Hello Taiwan!\n");   /* 印出Hello Taiwan! 字串 */   
+   
+   system("pause");
+   return 0 ;
+   printf("Hello World!\n");
+}
+5錯誤
+#include <stdio.h>
+#include <stdlib.h>
+int main(void)
+{
+   printf('Hello 偉大的恩師!\n');   	/* 印出Hello 偉大的恩師! 字串 */
+   printf("Hello Taiwan!\n");   /* 印出Hello Taiwan! 字串 */   
+   
+   system("pause");
+   return 999999 ;
+   printf("Hello World!\n");
+}
+6錯誤
+#include <stdio.h>
+#include <stdlib.h>
+int main(void)
+{
+   printf('Hello 偉大的恩師!\n';   	/* 印出Hello 偉大的恩師! 字串 */
+   printf("Hello Taiwan!\n");   /* 印出Hello Taiwan! 字串 */   
+   
+   system("pause");
+   return 0 ;
+   printf("Hello World!\n");
+}
+7錯誤
+#include <stdio.h>
+#include <stdlib.h>
+int main(void)
+{
+   printf('Hello 偉大的恩師!\n');   	/* 印出Hello 偉大的恩師! 字串 */
+   printf("Hello Taiwan!\n";   /* 印出Hello Taiwan! 字串 */   
+   
+   system("pause");
+   return 0 ;
+   printf("Hello World!\n");
+}
+8錯誤
+#include <stdio.h>
+#include <stdlib.h>
+int main(void)
+{
+   printf('Hello 偉大的恩師!\n');   	/* 印出Hello 偉大的恩師! 字串 */
+   printf("Hello Taiwan!\n"; )  /* 印出Hello Taiwan! 字串 */   
+   
+   system("pause");
+   returnR 0 ;
+   printf("Hello World!\n");
+}
+9錯誤
+#include <stdio.h>
+#include <stdlib.h>
+//int main(void)
+{
+   printf('Hello 偉大的恩師!\n');   	/* 印出Hello 偉大的恩師! 字串 */
+   printf("Hello Taiwan!\n"; )  /* 印出Hello Taiwan! 字串 */   
+   
+   system("pause");
+   return 0 ;
+   printf("Hello World!\n");
+}
+10錯誤
+#include <stdio.h>
+#include <stdlib.h>
+int main(void)
+{
+   printf('Hello 偉大的恩師!\n');   	/* 印出Hello 偉大的恩師! 字串 */
+   printf("Hello Taiwan!\n"; )  /* 印出Hello Taiwan! 字串 */   
+   
+   system("pause");
+   return 0 ;
+   printf("Hello World!\n");
